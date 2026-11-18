@@ -1,5 +1,9 @@
 # One Image of the World's News — 18 November 2026
 
+[![news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/gatotz/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/gatotz/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118)
+
 Entry for the make.fun bounty [news-image-20261118](https://make.fun/bounty/news-image-20261118):
 sum up the world news of Wednesday 18 November 2026 in a single image.
 
